@@ -1,0 +1,11 @@
+{
+  "name": "github-link",
+  "version": "1.0.0",
+  "description": "DiscordでGithub連携をする",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "souichim",
+  "license": "MIT"
+}
